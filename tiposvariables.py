@@ -27,3 +27,4 @@ print(type(nombre),type(pi))
 tegusto = False
 
 print(tegusto)
+

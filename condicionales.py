@@ -25,3 +25,5 @@ elif edad < 0:
     print("No manches")
 else:
     print("Eres un chamaco")
+
+    #En python no hay swtich case
